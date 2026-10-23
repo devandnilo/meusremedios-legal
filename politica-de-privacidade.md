@@ -75,4 +75,4 @@ O app não é destinado a crianças menores de 13 anos. Não coletamos intencion
 Podemos atualizar esta política periodicamente. A data no topo indica a última alteração.
 
 ## 8. Contato
-Dúvidas? Entre em contato: **[deandnilo@gmail.com]**
+Dúvidas? Entre em contato: **[devandnilo@gmail.com]**
